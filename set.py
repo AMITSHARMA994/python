@@ -1,0 +1,9 @@
+a=set()
+print(a)
+c={3,5,6,4,3}
+print(c)
+a.add(2)
+print(a)
+a="amit"
+print(list(a))
+print(set(a))
