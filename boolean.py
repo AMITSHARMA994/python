@@ -14,5 +14,5 @@ print(d)
 print(bool([[]]))
 e=str()
 print(bool([[]]))
-d="amit"+"sharma"
+d="amit"+"sharma"  #continesan
 print(d)

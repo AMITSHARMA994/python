@@ -16,3 +16,9 @@ b.popitem()
 print(b)
 b.setdefault(3)
 print(b)
+b[1]="rohan","sumit","kumar"
+f={1:{"name":"rohan","father":"sumit","mother":"kumar"}
+,2:{"name":"rohan","father":"amar","mother":"saroj"}}
+print(f)
+g=f[2]['father']
+print(g)
